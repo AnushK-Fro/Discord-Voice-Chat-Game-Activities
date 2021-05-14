@@ -1,4 +1,4 @@
-fetch("https://discord.com/api/v8/channels/Channel ID Here/invites:, {
+fetch("https://discord.com/api/v8/channels/Channel ID Here/invites", {
                     method: "POST",
                     body: JSON.stringify({
                         max_age: 86400,
