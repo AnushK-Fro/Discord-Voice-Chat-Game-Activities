@@ -1,4 +1,4 @@
-# Discord-Voice-Chat-Game-Activities
+# Discord Game Activities in Voice Chat Script
 Start YouTube Together, Poker Night, Betrayal.io, or Fishington.io in a Discord voice channel without paying.
 
 All you need to do is run the Python script, fill in the fields, and it will give you an invite link.
